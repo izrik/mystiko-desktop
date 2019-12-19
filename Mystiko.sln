@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mystiko", "Mystiko.csproj", "{DCDE6A8F-F08C-4EB1-9456-C25815031FBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MystikoGTKSharp", "MystikoGTKSharp\MystikoGTKSharp.csproj", "{42335C5A-8533-4825-BE28-C82B7F4E5F06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +15,9 @@ Global
 		{DCDE6A8F-F08C-4EB1-9456-C25815031FBC}.Debug|x86.Build.0 = Debug|x86
 		{DCDE6A8F-F08C-4EB1-9456-C25815031FBC}.Release|x86.ActiveCfg = Release|x86
 		{DCDE6A8F-F08C-4EB1-9456-C25815031FBC}.Release|x86.Build.0 = Release|x86
+		{42335C5A-8533-4825-BE28-C82B7F4E5F06}.Debug|x86.ActiveCfg = Debug|x86
+		{42335C5A-8533-4825-BE28-C82B7F4E5F06}.Debug|x86.Build.0 = Debug|x86
+		{42335C5A-8533-4825-BE28-C82B7F4E5F06}.Release|x86.ActiveCfg = Release|x86
+		{42335C5A-8533-4825-BE28-C82B7F4E5F06}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
